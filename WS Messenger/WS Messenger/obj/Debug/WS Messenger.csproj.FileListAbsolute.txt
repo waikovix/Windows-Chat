@@ -1,0 +1,20 @@
+c:\users\kiko\documents\visual studio 2017\Projects\WS Messenger\WS Messenger\bin\Debug\WS Messenger.exe.config
+c:\users\kiko\documents\visual studio 2017\Projects\WS Messenger\WS Messenger\bin\Debug\WS Messenger.exe
+c:\users\kiko\documents\visual studio 2017\Projects\WS Messenger\WS Messenger\bin\Debug\WS Messenger.pdb
+c:\users\kiko\documents\visual studio 2017\Projects\WS Messenger\WS Messenger\obj\Debug\WS Messenger.csprojResolveAssemblyReference.cache
+c:\users\kiko\documents\visual studio 2017\Projects\WS Messenger\WS Messenger\obj\Debug\WS_Messenger.Form1.resources
+c:\users\kiko\documents\visual studio 2017\Projects\WS Messenger\WS Messenger\obj\Debug\WS_Messenger.Properties.Resources.resources
+c:\users\kiko\documents\visual studio 2017\Projects\WS Messenger\WS Messenger\obj\Debug\WS Messenger.csproj.GenerateResource.Cache
+c:\users\kiko\documents\visual studio 2017\Projects\WS Messenger\WS Messenger\obj\Debug\WS Messenger.exe
+c:\users\kiko\documents\visual studio 2017\Projects\WS Messenger\WS Messenger\obj\Debug\WS Messenger.pdb
+C:\Users\Kiko\documents\visual studio 2017\Projects\WS Messenger\WS Messenger\bin\Debug\MySql.Data.dll
+C:\Users\Kiko\documents\visual studio 2017\Projects\WS Messenger\WS Messenger\bin\Debug\MySql.Data.xml
+C:\Users\Kiko\documents\visual studio 2017\Projects\WS Messenger\WS Messenger\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Kiko\documents\visual studio 2017\Projects\WS Messenger\WS Messenger\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Kiko\documents\visual studio 2017\Projects\WS Messenger\WS Messenger\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Kiko\documents\visual studio 2017\Projects\WS Messenger\WS Messenger\bin\Debug\MySql.Web.dll
+C:\Users\Kiko\documents\visual studio 2017\Projects\WS Messenger\WS Messenger\bin\Debug\MySql.Data.Entity.EF5.xml
+C:\Users\Kiko\documents\visual studio 2017\Projects\WS Messenger\WS Messenger\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Kiko\documents\visual studio 2017\Projects\WS Messenger\WS Messenger\bin\Debug\MySql.Web.xml
+C:\Users\Kiko\documents\visual studio 2017\Projects\WS Messenger\WS Messenger\obj\Debug\WS Messenger.csproj.WS Messenger.exe.config
+C:\Users\Kiko\documents\visual studio 2017\Projects\WS Messenger\WS Messenger\obj\Debug\WS_Messenger.Register.resources

@@ -24,7 +24,7 @@ namespace WS_Messenger
         {
             Form1 log = new Form1();
             log.Show();
-            this.OnFormClosing 
+           
         }
         void Reg(string username,string password,string email)
         {

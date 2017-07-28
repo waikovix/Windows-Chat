@@ -64,6 +64,12 @@ namespace WS_Messenger
             Hide();
 
         }
+
+        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Chat chat = new Chat();
+            chat.Show();
+        }
     }
 }
     

@@ -103,6 +103,35 @@ namespace WS_Messenger
         {
 
         }
+        public void Receive(ListBox messages)
+        {
+            string message_structure = "";
+            string username = "";
+            string message = "";
+            MySql.Data.MySqlClient.MySqlCommand cmd = conn.CreateCommand();
+            cmd.CommandText = "Select *  from chat";
+            try
+            {
+                conn.Open();
+            }
+            catch (Exception erro)
+            {
+                MessageBox.Show("Erro" + erro);
+                conn.Close();
+            }
+            MySql.Data.MySqlClient.MySqlDataReader reader = cmd.ExecuteReader();
+
+            while (reader.Read())
+            {
+                username = (string)reader.GetValue(1);
+                message = (string)reader.GetValue(2);
+
+                message_structure = username + ":" + message;
+                   messages.Items.Add(message_structure);
+                
+                
+            }
+        }
 
     }
 }
